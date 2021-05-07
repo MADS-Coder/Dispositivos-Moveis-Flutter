@@ -13,5 +13,4 @@ void pets (String animal, {nome, raca, idade}){
   print(raca ?? "desconhecida");
   print('Sua idade:');
   print(idade ?? 0);
-  
 }
